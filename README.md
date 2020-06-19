@@ -23,5 +23,5 @@ tensorflow==1.15
 
 
 
-![alt text](screen shots/app runtime.jpg/image.jpg?raw=true)
+![alt text](screen shots/app runtime.jpg?raw=true)
 
