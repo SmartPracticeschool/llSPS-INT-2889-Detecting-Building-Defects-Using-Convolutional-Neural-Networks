@@ -23,5 +23,5 @@ tensorflow==1.15
 
 
 
-![alt text](screen shots/app runtime.jpg?raw=true)
+![Image app runtime](https://github.com/SmartPracticeschool/llSPS-INT-2889-Detecting-Building-Defects-Using-Convolutional-Neural-Networks/blob/master/screen%20shots/app%20runtime.jpg)
 
