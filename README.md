@@ -22,9 +22,9 @@ pillow
 tensorflow==1.15
 
 
-#app run time
+# App Runtime
 ![Image app runtime](https://github.com/SmartPracticeschool/llSPS-INT-2889-Detecting-Building-Defects-Using-Convolutional-Neural-Networks/blob/master/screen%20shots/app%20runtime.jpg)
 
-#prediction
+# Prediction
 ![Image app runtime](https://github.com/SmartPracticeschool/llSPS-INT-2889-Detecting-Building-Defects-Using-Convolutional-Neural-Networks/blob/master/screen%20shots/prediction.jpg)
 
