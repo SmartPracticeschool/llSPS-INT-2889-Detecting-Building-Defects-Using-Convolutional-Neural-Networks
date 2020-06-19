@@ -21,3 +21,9 @@ pillow
 <br>
 tensorflow==1.15
 
+
+
+![alt text](https://github.com/SmartPracticeschool
+/
+llSPS-INT-2889-Detecting-Building-Defects-Using-Convolutional-Neural-Networks/image.jpg?raw=true)
+
